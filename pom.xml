@@ -3,7 +3,7 @@
 
   <groupId>ru.satabol</groupId>
   <artifactId>javaApp01</artifactId>
-  <version>0.0.4</version>
+  <version>0.0.4-SNAPSHOT</version>
   <packaging>jar</packaging>
 
   <name>javaApp01</name>
@@ -109,7 +109,7 @@
                     <preparationGoals>clean install</preparationGoals>
                     <goals>deploy</goals>
                     -->
-                    <username>alex-zaharow@yandex.ru</username>
+                    <username>alex-zaharow</username>
                     <password>Ghjnjy123</password>
                 </configuration>
             </plugin>
