@@ -40,6 +40,11 @@
     </dependency>
   </dependencies>
   
+  <scm>
+     <developerConnection>scm:git:https://github.com/Alex-Zaharow/javaApp01.git</developerConnection>
+     <url>https://github.com/Alex-Zaharow/javaApp01.git</url>
+  </scm>
+  
   <!-- 
   <profiles>
     <profile>
