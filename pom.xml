@@ -40,9 +40,9 @@
   </dependencies>
   
   <scm>
-     <developerConnection>scm:git:https://github.com/Alex-Zaharow/javaApp01.git</developerConnection>
+     <connection>scm:git:https://github.com/Alex-Zaharow/javaApp01.git/trunk</connection>
      <url>https://github.com/Alex-Zaharow/javaApp01.git</url>
-    <tag>javaApp01-0.0.3</tag>
+     <tag>javaApp01-0.0.3</tag>
   </scm>
   
   <!-- 
@@ -112,8 +112,16 @@
                 <artifactId>maven-release-plugin</artifactId>
                 <version>2.4.2</version>
                 <configuration>
+                    <!-- 
+                    <tagBase>https://github.com/Alex-Zaharow/javaApp01.git/tags</tagBase>
+                    <branchBase>https://github.com/Alex-Zaharow/javaApp01.git/branches</branchBase>
+                    <preparationGoals>clean install</preparationGoals>
+                    <goals>deploy</goals>
+                    -->
+                    <!-- 
                     <username>alex-zaharow@yandex.ru</username>
                     <password>Ghjnjy123</password>
+                    -->
                 </configuration>
             </plugin>
         </plugins>
