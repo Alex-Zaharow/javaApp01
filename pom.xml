@@ -109,10 +109,8 @@
                     <preparationGoals>clean install</preparationGoals>
                     <goals>deploy</goals>
                     -->
-                    <!-- 
                     <username>alex-zaharow@yandex.ru</username>
                     <password>Ghjnjy123</password>
-                    -->
                 </configuration>
             </plugin>
         </plugins>
