@@ -3,16 +3,7 @@
 
   <groupId>ru.satabol</groupId>
   <artifactId>javaApp01</artifactId>
-  <version>0.0.3</version>
-  <description>description</description>
-  <organization>
-    <name>organization name</name>
-    <url>http://organization.url</url>
-  </organization>
-  <issueManagement>
-    <system>bugzilla</system>
-    <url>http://yandeex.ru</url>
-  </issueManagement>
+  <version>0.0.3-SNAPSHOT</version>
   <packaging>jar</packaging>
 
   <name>javaApp01</name>
@@ -40,7 +31,7 @@
   </dependencies>
   
   <scm>
-     <connection>scm:git:https://github.com/Alex-Zaharow/javaApp01.git/trunk</connection>
+     <developerConnection>scm:git:https://github.com/Alex-Zaharow/javaApp01.git/trunk</developerConnection>
      <url>https://github.com/Alex-Zaharow/javaApp01.git</url>
      <tag>javaApp01-0.0.3</tag>
   </scm>
