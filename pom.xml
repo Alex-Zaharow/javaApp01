@@ -3,7 +3,7 @@
 
   <groupId>ru.satabol</groupId>
   <artifactId>javaApp01</artifactId>
-  <version>0.0.4-SNAPSHOT</version>
+  <version>0.0.4</version>
   <packaging>jar</packaging>
 
   <name>javaApp01</name>
@@ -33,7 +33,7 @@
   <scm>
      <developerConnection>scm:git:https://github.com/Alex-Zaharow/javaApp01.git/trunk</developerConnection>
      <url>https://github.com/Alex-Zaharow/javaApp01.git</url>
-    <tag>SCM-0.0.4-RELEASE</tag>
+    <tag>javaApp01-0.0.4</tag>
   </scm>
   
   <!-- 
